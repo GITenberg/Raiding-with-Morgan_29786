@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34170'
     url: http://www.gutenberg.org/2009/agents/34170
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29786#Raiding-with-Morgan
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2009-08-24'
 gutenberg_type: Text
